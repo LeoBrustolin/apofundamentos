@@ -14,4 +14,4 @@ Este projeto é um gerador de currículos desenvolvido em PHP, com frontend em H
 
 1. Repositório:
    ```bash
-   git clone https://github.com/LeoBrustolin/apofundamentos
+   git clone https://github.com/LeoBrustolin/apofundamentos.git
