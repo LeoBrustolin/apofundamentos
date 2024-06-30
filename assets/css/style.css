@@ -1,0 +1,25 @@
+.curriculo .header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.button-container {
+    margin-bottom: 20px;
+}
+
+.curriculo .foto {
+    border-radius: 10px;
+    width: 3cm;
+    height: 4cm;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.nameclass {
+    margin-top: 20px;
+    display: block;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 2px;
+}
